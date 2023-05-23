@@ -1,0 +1,4 @@
+bin/c_chess
+bin/c_chess*
+.DS_Store
+.*.swp
